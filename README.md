@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V10046?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Hands-On Infrastructure Automation with Ansible [Video]
 This is the code repository for [Hands-On Infrastructure Automation with Ansible [Video]](https://www.packtpub.com/application-development/hands-infrastructure-automation-ansible-video?utm_source=github&utm_medium=repository&utm_campaign=9781788991599), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
